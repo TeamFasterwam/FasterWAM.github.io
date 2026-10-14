@@ -1,6 +1,6 @@
 # Faster-WAM project page
 
-A responsive, standalone research project website based on **arXiv:2608.02365v2 (6 October 2026)**. The layout follows the [original NeRF project page](https://www.matthewtancik.com/nerf): a centered paper header, simple resource icons, and a narrow white reading column. Abstract and real-world rollouts lead the page, followed by physical evaluation, method, and benchmarks. No build step or JavaScript dependencies are required.
+A responsive, standalone research project website based on **arXiv:2608.02365v2**. The layout follows the [original NeRF project page](https://www.matthewtancik.com/nerf): a centered paper header, simple resource icons, and a narrow white reading column. Abstract and real-world rollouts lead the page, followed by physical evaluation, method, and benchmarks. No build step or JavaScript dependencies are required.
 
 ## Preview
 
