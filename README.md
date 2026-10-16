@@ -68,6 +68,6 @@ Requires `pdftocairo`, `pdftoppm`, and `ffmpeg`. This is an optional asset-prepa
 
 ## GitHub Pages
 
-Publish to **https://teamfasterwam.github.io/FasterWAM.github.io/** from the repository root on the `main` branch using GitHub Pages. `.nojekyll` enables direct static-file serving. In the repository's **Settings → Pages**, select **Deploy from a branch → main → / (root)**. Subsequent pushes to `main` publish the updated page.
+Publish to **https://teamfasterwam.github.io/Faster-WAM/** from the repository root on the `main` branch using GitHub Pages. `.nojekyll` enables direct static-file serving. In the repository's **Settings → Pages**, select **Deploy from a branch → main → / (root)**. Subsequent pushes to `main` publish the updated page.
 
 The current remote is `TeamFasterwam/FasterWAM.github.io`, so social metadata uses the project path `https://teamfasterwam.github.io/FasterWAM.github.io/`. Update the `og:url` and `og:image` tags if the deployment URL changes. Fonts are loaded from Google Fonts, with local sans-serif fallbacks; all scientific figures and snapshots are served locally.
